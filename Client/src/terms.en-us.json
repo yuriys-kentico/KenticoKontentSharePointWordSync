@@ -1,0 +1,24 @@
+{
+  "errors": {
+    "genericError": "A generic error has occurred.",
+    "genericStack": "No error information."
+  },
+  "element": {
+    "title": "Word Sync",
+    "enabledDescription": "Choose a name, type, and element and click the button to upload to Kontent as a new item.",
+    "name": "Name...",
+    "chooseType": "Choose type...",
+    "chooseElement": "Choose element...",
+    "button": "Sync selection",
+    "buttonAll": "Sync document",
+    "totalTime": "Total time",
+    "totalApiCalls": "Total API calls",
+    "newItem": "New item",
+    "time": {
+      "hours": "hours",
+      "minutes": "minutes",
+      "seconds": "seconds"
+    },
+    "disabledDescription": "This element has no functionality in this context."
+  }
+}
